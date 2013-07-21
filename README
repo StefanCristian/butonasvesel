@@ -2,3 +2,18 @@ butonasvesel
 ============
 
 When boredom gets at its peaks.
+
+How to compile and use
+=====================
+
+git clone https://github.com/BlackNoxis/butonasvesel.git
+
+cd ./butonasvesel
+
+make
+
+./butonasvesel
+
+
+
+Enjoy! There's no copyright. Pirate it and make fun of it at will :)
