@@ -31,9 +31,4 @@ int main(int argc, char* argv[]) {
 
 void when_clicking_butonas() {
 	cout << "Well... I don't have to describe your current action" << endl;
-    	// FILE * f = popen( "ls -al", "r" );
-        //if ( f == 0 ) {
-	//fprintf( stderr, "Could not execute\n" );
-	//return 1;
-	//}
 }
