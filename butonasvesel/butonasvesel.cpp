@@ -10,7 +10,7 @@ int main(int argc, char* argv[]) {
 	Gtk::Main kit(argc, argv);
 
 	Gtk::Window blindow;
-	Gtk::Button butonas("Click on me, lad");
+	Gtk::Button butonas("Click on me, ladz");
 
 	blindow.set_default_size(480, 240);
 	blindow.set_title("A window");
