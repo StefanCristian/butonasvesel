@@ -13,7 +13,7 @@ int main(int argc, char* argv[]) {
 	Gtk::Button butonas("Click on me, ladz");
 
 	blindow.set_default_size(480, 240);
-	blindow.set_title("A window");
+	blindow.set_title("The window");
 	blindow.set_position(Gtk::WIN_POS_CENTER);
 	blindow.set_border_width(10);
 
